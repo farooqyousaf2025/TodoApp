@@ -1,0 +1,3 @@
+# Only needed for the Textual TUI (python -m src.tui_app).
+# The plain CLI (python -m src.main) uses the standard library alone.
+textual>=8.0
